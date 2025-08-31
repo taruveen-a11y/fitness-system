@@ -1,4 +1,4 @@
-# Patient–Doctor–Trainer Integrated Fitness Lifecycle Specification (v1.0)
+# Fittoria (v1.0)
 
 ## 1. Purpose & Scope
 This document defines the end‑to‑end lifecycle, roles, states, data artifacts, automations, metrics, and phased roadmap for a platform coordinating medically-informed fitness programming between Patient, Doctor, Trainer, and Lab Technician. It supports safe exercise prescription, adherence tracking, clinical oversight, and progressive optimization.
